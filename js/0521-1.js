@@ -1,5 +1,5 @@
 function Mall () {
-      return <p>코엑스몰점</p>
+      return <b>코엑스몰점</b>
     };
     function Saturday({shop}) {
       return (
